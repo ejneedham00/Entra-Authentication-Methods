@@ -27,7 +27,7 @@ Each case study in this repository covers one step on that journey.
 | --- | --- | --- |
 | [`temporary-access-pass-rollout`](./temporary-access-pass-rollout) | Temporary Access Pass | Rolling out TAP for passwordless onboarding and account recovery |
 | [`sms-to-authenticator-migration`](./sms-to-authenticator-migration) | SMS → Authenticator | Phasing out SMS and voice in favour of Microsoft Authenticator |
-| [`fido2-security-keys`](./fido2-security-keys) | FIDO2 security keys | Deploying hardware keys for phishing-resistant sign-in |
+| [`fido2-security-keys`](https://github.com/ejneedham00/Entra-Authentication-Methods/blob/main/FIDO%20Key%20Utilisation) | FIDO2 security keys | Deploying hardware keys for phishing-resistant sign-in |
  
 More case studies will be added over time.
  
