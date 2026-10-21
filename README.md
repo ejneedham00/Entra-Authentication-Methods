@@ -23,7 +23,7 @@ Each case study in this repository covers one step on that journey.
  
 ## Case studies
  
-| Folder | Topic | Summary |
+| Document | Topic | Summary |
 | --- | --- | --- |
 | [`temporary-access-pass-rollout`](https://github.com/ejneedham00/Entra-Authentication-Methods/blob/main/Temporary%20Access%20Pass%20Rollout) | Temporary Access Pass | Rolling out TAP for passwordless onboarding and account recovery |
 | [`sms-to-authenticator-migration`](https://github.com/ejneedham00/Entra-Authentication-Methods/blob/main/SMS%20to%20Authenticator%20App%20Migration) | SMS → Authenticator | Phasing out SMS and voice in favour of Microsoft Authenticator |
