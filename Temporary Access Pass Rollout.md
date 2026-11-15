@@ -157,4 +157,3 @@ What I would do differently, or front-load, next time:
 ### References
 
 - [Configure Temporary Access Pass to register passwordless authentication methods (Microsoft Learn)](https://learn.microsoft.com/en-ie/Entra/Identity/Authentication/howto-authentication-temporary-access-pass)
-- [Configuring Outcome: Entra ID Temporary Access Pass (HYPR docs)](https://docs.hypr.com/docs/11.1.0/affirm/affirmInstallCfg/affirm-install-cfg-entra-tap/)
