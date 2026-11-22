@@ -39,7 +39,7 @@ Specifically, it set out to:
 
 **Choose and stock the keys.** Pick one or two approved models, order enough for the users plus spares, and allow for lead times. Issue a **second key** or a second method to critical and privileged users.
 
-**Register the keys.** Users register at their desk, or with the service desk for those who cannot. Where a user cannot complete the normal proof-up step, a Temporary Access Pass can be used to register the key (see the companion TAP rollout case study).
+**Register the keys.** Users register at their desk, or with the service desk for those who cannot. Where a user cannot complete the normal proof-up step, a Temporary Access Pass can be used to register the key (see [TAP Rollout](https://github.com/ejneedham00/Entra-Authentication-Methods/blob/main/Temporary%20Access%20Pass%20Rollout.md)).
 
 **Phase it.**
 
