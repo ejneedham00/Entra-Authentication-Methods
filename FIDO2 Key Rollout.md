@@ -46,7 +46,7 @@ Specifically, it set out to:
 | Phase | What happens | Gate to move on |
 | --- | --- | --- |
 | 1. Identify | Named list of users and reasons | List agreed |
-| 2. Prepare | Passkey profile, Conditional Access check, key model chosen, stock ordered, runbook written | Test user can register a key and sign in |
+| 2. Prepare | Passkey profile, Conditional Access check, key model chosen, stock ordered, Standard Operating Procedure (SOP) written | Test user can register a key and sign in |
 | 3. Pilot | A few users across the scenarios, including a privileged user and a shared-workstation user | Standard Operating Procedure (SOP) and lost-key process proven |
 | 4. Waves | Issue keys by group, privileged and regulated roles first, then users affected by the SMS and voice retirement, then the rest | Registration and tickets reviewed per wave |
 | 5. Clean-up | Chase remaining users, confirm every key user has a second method | No key user left without a backup |
